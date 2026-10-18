@@ -1,0 +1,19 @@
+# 构建产物
+dist/
+target/
+dependency-reduced-pom.xml
+
+# 构建与运行日志
+build.log
+*.log
+
+# 运行时生成的用户设置
+auto-clicker-settings.properties
+
+# IDE 与工具本地配置
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.claude/
